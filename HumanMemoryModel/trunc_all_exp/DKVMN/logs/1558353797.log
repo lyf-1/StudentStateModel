@@ -1,0 +1,16 @@
+Epoch 1/100, train loss:0.639358, valid auc:0.61416, valid acc:0.62186, valid f1:0.75517
+Epoch 2/100, train loss:0.657705, valid auc:0.64768, valid acc:0.58644, valid f1:0.72212
+Epoch 3/100, train loss:0.720118, valid auc:0.64530, valid acc:0.58243, valid f1:0.71906
+Epoch 4/100, train loss:0.670481, valid auc:0.63941, valid acc:0.58286, valid f1:0.71971
+Epoch 5/100, train loss:0.606964, valid auc:0.65984, valid acc:0.58624, valid f1:0.72205
+Epoch 6/100, train loss:0.576316, valid auc:0.68006, valid acc:0.58998, valid f1:0.72435
+Epoch 7/100, train loss:0.565871, valid auc:0.68402, valid acc:0.59062, valid f1:0.72481
+Epoch 8/100, train loss:0.557719, valid auc:0.69301, valid acc:0.59230, valid f1:0.72587
+Epoch 9/100, train loss:0.535570, valid auc:0.70089, valid acc:0.59749, valid f1:0.73001
+Epoch 10/100, train loss:0.519310, valid auc:0.70962, valid acc:0.59840, valid f1:0.73040
+Epoch 11/100, train loss:0.511117, valid auc:0.70980, valid acc:0.59901, valid f1:0.73089
+Epoch 12/100, train loss:0.505569, valid auc:0.71440, valid acc:0.59989, valid f1:0.73158
+Epoch 13/100, train loss:0.501919, valid auc:0.71624, valid acc:0.60041, valid f1:0.73204
+Epoch 14/100, train loss:0.500981, valid auc:0.71595, valid acc:0.59828, valid f1:0.73030
+Epoch 15/100, train loss:0.502391, valid auc:0.71524, valid acc:0.60081, valid f1:0.73247
+Epoch 16/100, train loss:0.501551, valid auc:0.71623, valid acc:0.60232, valid f1:0.73364

@@ -1,0 +1,9 @@
+a global item difficulty
+
+Epoch 1/50, train loss:3.01374, valid auc:0.475881, valid acc:0.68151, valid f1:0.80562
+Epoch 2/50, train loss:3.01369, valid auc:0.475441, valid acc:0.65598, valid f1:0.78630
+Epoch 3/50, train loss:3.01369, valid auc:0.475715, valid acc:0.66917, valid f1:0.79638
+Epoch 4/50, train loss:3.01369, valid auc:0.475876, valid acc:0.68233, valid f1:0.80622
+Epoch 5/50, train loss:3.01368, valid auc:0.475580, valid acc:0.66361, valid f1:0.79212
+Epoch 6/50, train loss:3.01368, valid auc:0.476194, valid acc:0.69958, valid f1:0.81887
+Epoch 7/50, train loss:3.01367, valid auc:0.475709, valid acc:0.66999, valid f1:0.79703

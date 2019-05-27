@@ -1,0 +1,6 @@
+Epoch 1/100, train loss:0.360320, valid auc:0.88312, valid acc:0.82315, valid f1:0.88292
+Epoch 2/100, train loss:0.362885, valid auc:0.87717, valid acc:0.81445, valid f1:0.87724
+Epoch 3/100, train loss:0.365911, valid auc:0.87336, valid acc:0.81318, valid f1:0.87564
+Epoch 4/100, train loss:0.363240, valid auc:0.87473, valid acc:0.81689, valid f1:0.87820
+Epoch 5/100, train loss:0.373938, valid auc:0.86836, valid acc:0.81330, valid f1:0.87579
+Epoch 6/100, train loss:0.377218, valid auc:0.86832, valid acc:0.81277, valid f1:0.87562

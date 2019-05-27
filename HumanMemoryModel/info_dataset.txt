@@ -1,0 +1,95 @@
+///////////////////
+duolingo-hlr
+
+total records 12,854,226
+users number 115222
+item number 19279
+
+thr=0.859 / 1.0:
+num-true: 10811980 / 10782942
+num-fail: 2042246  / 2071284
+pass-rate: 0.841 / 0.839
+
+
+stu-item: 
+unique user-item pair number 5861629
+max seq len 19194
+min seq len 1
+number of user(seq len>=30) 61487
+
+seq len / number of students
+130-200 8456
+150-200 5274
+160-200 4044
+170-200 2871
+150-250 8970
+180-220 3302
+280-300 902 
+480-520 635
+400-500 2152
+
+item number is too big, one-hot matrix is too big
+DKT: 
+Assistments 124 exercise tags
+Khan Math 69 exercise tags
+
+duolingo_delta_56320_30_500.pkl   items_num=16433 
+duolingo_delta_60160_30_1000.pkl  items_num=17412
+
+
+
+//////////////////////
+leitnerq/Mnemosyne
+
+file: data/mnemosyne_history.pkl  ---> mnemosyne_history.csv
+
+num of interactions: 859591
+num of students: 2742
+num of items: 88892
+num_pass / (num_pass+num_fails): 0.556
+
+colums: 
+student_id：student-item pair
+module_id: item_id
+outcome: True / False. (original data is divided 5 grades.)
+timestamp: the time of current interactions
+duration: ??? I don't know.
+timestep: totally same as the column 'nreps'
+module_type: only one value, 'assessment'
+time_since_previous_interaction: empty
+user_id: student_id：student
+deck: current position in Leitner system.
+nreps: the number of seeing current item for current user after the current interaction
+tlast: time since last interaction
+
+number of interactions per student: 
+    max-inter-number:2174
+    min-inter-number:6
+    average-inter-number:313
+
+# mnemosyne-500
+filtered interactions number: 333612
+filtered students number: 2126
+filtered items number: 40699
+filtered pass rate: 0.502767
+max tlast: 1480.507324, min tlast: 0.000000
+data shape: (2126, 500)
+
+# mnemosyne-1000
+filtered interactions number: 654755
+filtered students number: 2590
+filtered items number: 72272
+filtered pass rate: 0.544381
+max tlast: 1507.859497, min tlast: 0.000000
+data shape: (2590, 1000)
+
+
+///////////////////////////
+duolingo-slam
+
+6000 students, their first 30 days using Duolingo APP
+
+dataset users tokens
+es_en 2643 2525
+en_es 2593 1967
+fr_en 1213 1941

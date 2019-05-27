@@ -1,0 +1,2 @@
+Epoch 1/100, train loss:0.11590, valid auc:0.678196, valid acc:0.58233, valid f1:0.71695
+Epoch 2/100, train loss:0.04473, valid auc:0.673228, valid acc:0.58150, valid f1:0.71662
